@@ -1,0 +1,620 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:1:1-43:12
+INJECTED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:1:1-43:12
+INJECTED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:1:1-43:12
+INJECTED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:1:1-43:12
+MERGED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:1:1-43:12
+MERGED from [:react-native-navigation-bar-color] G:\Appsians\Clients\LocumApp\node_modules\react-native-navigation-bar-color\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-firebase] G:\Appsians\Clients\LocumApp\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-23:12
+MERGED from [:react-native-image-crop-picker] G:\Appsians\Clients\LocumApp\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-28:12
+MERGED from [:react-native-splash-screen] G:\Appsians\Clients\LocumApp\node_modules\react-native-splash-screen\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-webview] G:\Appsians\Clients\LocumApp\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-23:12
+MERGED from [:react-native-config] G:\Appsians\Clients\LocumApp\node_modules\react-native-config\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-device-info] G:\Appsians\Clients\LocumApp\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-22:12
+MERGED from [:react-native-vector-icons] G:\Appsians\Clients\LocumApp\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] G:\Appsians\Clients\LocumApp\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\2b08116c59db44b779050b1c479d5a0f\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\52f746b7dfba7561913dddfe564a6c97\AndroidManifest.xml:17:1-37:12
+MERGED from [com.facebook.react:react-native:0.59.9] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\a5f8f44def708378da90f38ff0427330\AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.yalantis:ucrop:2.2.2-native] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\8d0938680be5d5303b7f828f5fd6985f\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\cb022d619ccf4b7e63206ca74f0693ea\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\97806a29def15da987535748fb440f84\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\bf59a42d5e3ea7dec21137e8f773b179\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-gcm:17.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\ba8d8d8699c3d7abab962970e4dbae50\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\ccdf899024860c8ea5d63be67ef969bb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\09c478c7fd7ddc62d12a9333e9c5e0ab\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f7fbcc48accaca2a25bc41a9ee0b103f\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\eff9410fb5b1c5e35c7cc983da3b0f40\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f67e98a25ca33611898240ce74c1feeb\AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\504865655c94da738241e0938eba0a2c\AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\077da24513fe832fe207ec6df4107a03\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\e7e12f25ba4fc01751c08a13cb7b9015\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\eb8011b5d55618cd693fa5fed4653693\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f316e811701e0baa476bc894d9299c7e\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\9123f87f342452aa3f5ad69942acd6d6\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\128450b309261980ab5f4eb9c98a98f4\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\fddabf8062d95daf5071e06c283b1533\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\c9782b0a647c7394ad73bf295d91ff8c\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\6153eaf68407eda097dbe1374490b455\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\e1bfea2f7ec59dca80152a3d2c99f906\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\ed29c69bb502a4a6845898b4b039bb29\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\11ee97d96c893cf097b511596960b8aa\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\2c709d9db0ebebd06ff6b223fea8d2b9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\be36c84314d19ad017ada84f6d93dbd5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\39af7452ab44cb5249b586be731d3b37\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\c5701ed6dce308ea0fb1071ee67556c4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\6c51885a80bf467aaed6702488581814\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\117d11f1f9ff7e888b2fc174dd011c9e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\07e83fe988e06eee87ce5b424886355f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f9fc086e8777e1f9d596ee413f82895a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\0619e8c3ac287748bad00afc1e481e5d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\41b2193a0cdb6475f3802d6bb1baaba6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\fc2510f6b52f0148822ffe2f54d78e6a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\fc8d25846ee161ab2848e22d50a7a54d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\0181fff9cf9971e1a21b565f8a49400b\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\9b3f3f17ce6d46dffad999ca96990962\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f29e13b3a7ea9966eaabb6ad7122e575\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\aec132ca812a604c029012d893cdf6f0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\4c3b1044fb281ff6d297882f4d7ff350\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\7d6330ef5be74cb282c5c3fc47de61f8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f7fd9224bd88f6d22a5eab65a2ebe545\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\380602b7567392d83be67ca010432f83\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f2f790422d2c962e3d9e33074cd8d7d3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\bd330936ff39ddf4fd7e808981f42f6e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\74fa2e525af432990439a9a0cd0f12d6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\c0eaa966e2d9982b2401981af85f6840\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\8665efb18bc07f5f759d113e65e508eb\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\8ce12853512db5c5334ade7ec838ab49\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\4d2f5573a5d428fe92657496d01fb018\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\aecb8879320d1acf2abf862152d5e8a1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\08f3ebb1d63a779516316d72da389abf\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f819bd4df90a10f2803054539fea665a\AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\c07c122bedf738f9ac8105edfe393d82\AndroidManifest.xml:2:1-9:12
+INJECTED from G:\Appsians\Clients\LocumApp\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from G:\Appsians\Clients\LocumApp\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from G:\Appsians\Clients\LocumApp\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:2:3-25
+		INJECTED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml
+		ADDED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:2:3-25
+		INJECTED from G:\Appsians\Clients\LocumApp\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml
+		ADDED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:1:1-43:12
+		INJECTED from G:\Appsians\Clients\LocumApp\android\app\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from G:\Appsians\Clients\LocumApp\android\app\src\debug\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml
+		ADDED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:1:1-43:12
+		INJECTED from G:\Appsians\Clients\LocumApp\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [:react-native-firebase] G:\Appsians\Clients\LocumApp\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-67
+MERGED from [:react-native-firebase] G:\Appsians\Clients\LocumApp\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-gcm:17.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\ba8d8d8699c3d7abab962970e4dbae50\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-gcm:17.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\ba8d8d8699c3d7abab962970e4dbae50\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\09c478c7fd7ddc62d12a9333e9c5e0ab\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\09c478c7fd7ddc62d12a9333e9c5e0ab\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f7fbcc48accaca2a25bc41a9ee0b103f\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f7fbcc48accaca2a25bc41a9ee0b103f\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f67e98a25ca33611898240ce74c1feeb\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f67e98a25ca33611898240ce74c1feeb\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\077da24513fe832fe207ec6df4107a03\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\077da24513fe832fe207ec6df4107a03\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\128450b309261980ab5f4eb9c98a98f4\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\128450b309261980ab5f4eb9c98a98f4\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\c9782b0a647c7394ad73bf295d91ff8c\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\c9782b0a647c7394ad73bf295d91ff8c\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:5:5-79
+MERGED from [:react-native-firebase] G:\Appsians\Clients\LocumApp\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-79
+MERGED from [:react-native-firebase] G:\Appsians\Clients\LocumApp\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\09c478c7fd7ddc62d12a9333e9c5e0ab\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\09c478c7fd7ddc62d12a9333e9c5e0ab\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f7fbcc48accaca2a25bc41a9ee0b103f\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f7fbcc48accaca2a25bc41a9ee0b103f\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f67e98a25ca33611898240ce74c1feeb\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f67e98a25ca33611898240ce74c1feeb\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\128450b309261980ab5f4eb9c98a98f4\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\128450b309261980ab5f4eb9c98a98f4\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\c9782b0a647c7394ad73bf295d91ff8c\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\c9782b0a647c7394ad73bf295d91ff8c\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.CAMERA
+ADDED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:6:5-64
+	android:name
+		ADDED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:6:22-62
+uses-feature#android.hardware.camera
+ADDED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:7:5-85
+	android:required
+		ADDED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:7:58-82
+	android:name
+		ADDED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:7:19-57
+uses-feature#android.hardware.camera.front
+ADDED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:8:5-91
+	android:required
+		ADDED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:8:64-88
+	android:name
+		ADDED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:8:19-63
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:10:5-66
+	android:name
+		ADDED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:10:22-63
+application
+ADDED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:12:5-41:19
+MERGED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:12:5-41:19
+MERGED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:12:5-41:19
+MERGED from [:react-native-firebase] G:\Appsians\Clients\LocumApp\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-21:19
+MERGED from [:react-native-firebase] G:\Appsians\Clients\LocumApp\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-21:19
+MERGED from [:react-native-image-crop-picker] G:\Appsians\Clients\LocumApp\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-26:19
+MERGED from [:react-native-image-crop-picker] G:\Appsians\Clients\LocumApp\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-26:19
+MERGED from [:react-native-splash-screen] G:\Appsians\Clients\LocumApp\node_modules\react-native-splash-screen\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-splash-screen] G:\Appsians\Clients\LocumApp\node_modules\react-native-splash-screen\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-webview] G:\Appsians\Clients\LocumApp\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-webview] G:\Appsians\Clients\LocumApp\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-device-info] G:\Appsians\Clients\LocumApp\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-20:19
+MERGED from [:react-native-device-info] G:\Appsians\Clients\LocumApp\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-20:19
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\2b08116c59db44b779050b1c479d5a0f\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\2b08116c59db44b779050b1c479d5a0f\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\52f746b7dfba7561913dddfe564a6c97\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\52f746b7dfba7561913dddfe564a6c97\AndroidManifest.xml:22:5-35:19
+MERGED from [com.facebook.react:react-native:0.59.9] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\a5f8f44def708378da90f38ff0427330\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.9] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\a5f8f44def708378da90f38ff0427330\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-gcm:17.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\ba8d8d8699c3d7abab962970e4dbae50\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-gcm:17.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\ba8d8d8699c3d7abab962970e4dbae50\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\09c478c7fd7ddc62d12a9333e9c5e0ab\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\09c478c7fd7ddc62d12a9333e9c5e0ab\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f7fbcc48accaca2a25bc41a9ee0b103f\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f7fbcc48accaca2a25bc41a9ee0b103f\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\eff9410fb5b1c5e35c7cc983da3b0f40\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\eff9410fb5b1c5e35c7cc983da3b0f40\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f67e98a25ca33611898240ce74c1feeb\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f67e98a25ca33611898240ce74c1feeb\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\504865655c94da738241e0938eba0a2c\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\504865655c94da738241e0938eba0a2c\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\077da24513fe832fe207ec6df4107a03\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\077da24513fe832fe207ec6df4107a03\AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\e7e12f25ba4fc01751c08a13cb7b9015\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\e7e12f25ba4fc01751c08a13cb7b9015\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\eb8011b5d55618cd693fa5fed4653693\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\eb8011b5d55618cd693fa5fed4653693\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f316e811701e0baa476bc894d9299c7e\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f316e811701e0baa476bc894d9299c7e\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\9123f87f342452aa3f5ad69942acd6d6\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\9123f87f342452aa3f5ad69942acd6d6\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\128450b309261980ab5f4eb9c98a98f4\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\128450b309261980ab5f4eb9c98a98f4\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\fddabf8062d95daf5071e06c283b1533\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\fddabf8062d95daf5071e06c283b1533\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\6153eaf68407eda097dbe1374490b455\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\6153eaf68407eda097dbe1374490b455\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\e1bfea2f7ec59dca80152a3d2c99f906\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\e1bfea2f7ec59dca80152a3d2c99f906\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\ed29c69bb502a4a6845898b4b039bb29\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\ed29c69bb502a4a6845898b4b039bb29\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\0181fff9cf9971e1a21b565f8a49400b\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\0181fff9cf9971e1a21b565f8a49400b\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\9b3f3f17ce6d46dffad999ca96990962\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\9b3f3f17ce6d46dffad999ca96990962\AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f819bd4df90a10f2803054539fea665a\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f819bd4df90a10f2803054539fea665a\AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\0181fff9cf9971e1a21b565f8a49400b\AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:14:7-39
+		ADDED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:14:7-39
+	android:launchMode
+		ADDED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:19:7-37
+		ADDED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:19:7-37
+	tools:ignore
+		ADDED from G:\Appsians\Clients\LocumApp\android\app\src\debug\AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:16:7-52
+		ADDED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:16:7-52
+	tools:targetApi
+		ADDED from G:\Appsians\Clients\LocumApp\android\app\src\debug\AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:15:7-41
+		ADDED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:15:7-41
+	android:allowBackup
+		ADDED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:17:7-34
+		ADDED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:17:7-34
+	android:theme
+		ADDED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:18:7-38
+		ADDED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:18:7-38
+	android:usesCleartextTraffic
+		ADDED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:20:7-42
+	android:name
+		ADDED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:13:7-38
+		ADDED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:13:7-38
+activity#com.locumset.MainActivity
+ADDED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:21:7-30:18
+	android:label
+		ADDED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:23:9-41
+	android:windowSoftInputMode
+		ADDED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:25:9-51
+	android:configChanges
+		ADDED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:24:9-79
+	android:name
+		ADDED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:22:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:26:9-29:25
+action#android.intent.action.MAIN
+ADDED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:27:13-65
+	android:name
+		ADDED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:27:21-62
+category#android.intent.category.LAUNCHER
+ADDED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:28:13-73
+	android:name
+		ADDED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:28:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:31:7-84
+	android:name
+		ADDED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:31:17-81
+service#io.invertase.firebase.messaging.RNFirebaseMessagingService
+ADDED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:32:7-36:17
+	android:name
+		ADDED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:32:16-89
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:33:9-35:25
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:34:11-72
+	android:name
+		ADDED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:34:19-69
+meta-data#com.google.firebase.messaging.default_notification_icon
+ADDED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:37:7-39:52
+	android:resource
+		ADDED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:39:11-49
+	android:name
+		ADDED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:38:11-81
+service#io.invertase.firebase.messaging.RNFirebaseBackgroundMessagingService
+ADDED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:40:9-104
+	android:name
+		ADDED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml:40:18-101
+uses-sdk
+INJECTED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml
+INJECTED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-navigation-bar-color] G:\Appsians\Clients\LocumApp\node_modules\react-native-navigation-bar-color\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-navigation-bar-color] G:\Appsians\Clients\LocumApp\node_modules\react-native-navigation-bar-color\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase] G:\Appsians\Clients\LocumApp\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase] G:\Appsians\Clients\LocumApp\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-crop-picker] G:\Appsians\Clients\LocumApp\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-image-crop-picker] G:\Appsians\Clients\LocumApp\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-splash-screen] G:\Appsians\Clients\LocumApp\node_modules\react-native-splash-screen\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] G:\Appsians\Clients\LocumApp\node_modules\react-native-splash-screen\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] G:\Appsians\Clients\LocumApp\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] G:\Appsians\Clients\LocumApp\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-config] G:\Appsians\Clients\LocumApp\node_modules\react-native-config\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-config] G:\Appsians\Clients\LocumApp\node_modules\react-native-config\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-device-info] G:\Appsians\Clients\LocumApp\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-device-info] G:\Appsians\Clients\LocumApp\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] G:\Appsians\Clients\LocumApp\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] G:\Appsians\Clients\LocumApp\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] G:\Appsians\Clients\LocumApp\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] G:\Appsians\Clients\LocumApp\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\2b08116c59db44b779050b1c479d5a0f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\2b08116c59db44b779050b1c479d5a0f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\52f746b7dfba7561913dddfe564a6c97\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\52f746b7dfba7561913dddfe564a6c97\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.react:react-native:0.59.9] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\a5f8f44def708378da90f38ff0427330\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.9] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\a5f8f44def708378da90f38ff0427330\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.2-native] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\8d0938680be5d5303b7f828f5fd6985f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.2-native] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\8d0938680be5d5303b7f828f5fd6985f\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\cb022d619ccf4b7e63206ca74f0693ea\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\cb022d619ccf4b7e63206ca74f0693ea\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\97806a29def15da987535748fb440f84\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\97806a29def15da987535748fb440f84\AndroidManifest.xml:20:5-44
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\bf59a42d5e3ea7dec21137e8f773b179\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\bf59a42d5e3ea7dec21137e8f773b179\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-gcm:17.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\ba8d8d8699c3d7abab962970e4dbae50\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:17.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\ba8d8d8699c3d7abab962970e4dbae50\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\ccdf899024860c8ea5d63be67ef969bb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\ccdf899024860c8ea5d63be67ef969bb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\09c478c7fd7ddc62d12a9333e9c5e0ab\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\09c478c7fd7ddc62d12a9333e9c5e0ab\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f7fbcc48accaca2a25bc41a9ee0b103f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f7fbcc48accaca2a25bc41a9ee0b103f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\eff9410fb5b1c5e35c7cc983da3b0f40\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\eff9410fb5b1c5e35c7cc983da3b0f40\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f67e98a25ca33611898240ce74c1feeb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f67e98a25ca33611898240ce74c1feeb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\504865655c94da738241e0938eba0a2c\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\504865655c94da738241e0938eba0a2c\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\077da24513fe832fe207ec6df4107a03\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\077da24513fe832fe207ec6df4107a03\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\e7e12f25ba4fc01751c08a13cb7b9015\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\e7e12f25ba4fc01751c08a13cb7b9015\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\eb8011b5d55618cd693fa5fed4653693\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\eb8011b5d55618cd693fa5fed4653693\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f316e811701e0baa476bc894d9299c7e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f316e811701e0baa476bc894d9299c7e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\9123f87f342452aa3f5ad69942acd6d6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\9123f87f342452aa3f5ad69942acd6d6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\128450b309261980ab5f4eb9c98a98f4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\128450b309261980ab5f4eb9c98a98f4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\fddabf8062d95daf5071e06c283b1533\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\fddabf8062d95daf5071e06c283b1533\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\c9782b0a647c7394ad73bf295d91ff8c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\c9782b0a647c7394ad73bf295d91ff8c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\6153eaf68407eda097dbe1374490b455\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\6153eaf68407eda097dbe1374490b455\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\e1bfea2f7ec59dca80152a3d2c99f906\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\e1bfea2f7ec59dca80152a3d2c99f906\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\ed29c69bb502a4a6845898b4b039bb29\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\ed29c69bb502a4a6845898b4b039bb29\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\11ee97d96c893cf097b511596960b8aa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\11ee97d96c893cf097b511596960b8aa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\2c709d9db0ebebd06ff6b223fea8d2b9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\2c709d9db0ebebd06ff6b223fea8d2b9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\be36c84314d19ad017ada84f6d93dbd5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\be36c84314d19ad017ada84f6d93dbd5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\39af7452ab44cb5249b586be731d3b37\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\39af7452ab44cb5249b586be731d3b37\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\c5701ed6dce308ea0fb1071ee67556c4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\c5701ed6dce308ea0fb1071ee67556c4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\6c51885a80bf467aaed6702488581814\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\6c51885a80bf467aaed6702488581814\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\117d11f1f9ff7e888b2fc174dd011c9e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\117d11f1f9ff7e888b2fc174dd011c9e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\07e83fe988e06eee87ce5b424886355f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\07e83fe988e06eee87ce5b424886355f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f9fc086e8777e1f9d596ee413f82895a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f9fc086e8777e1f9d596ee413f82895a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\0619e8c3ac287748bad00afc1e481e5d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\0619e8c3ac287748bad00afc1e481e5d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\41b2193a0cdb6475f3802d6bb1baaba6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\41b2193a0cdb6475f3802d6bb1baaba6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\fc2510f6b52f0148822ffe2f54d78e6a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\fc2510f6b52f0148822ffe2f54d78e6a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\fc8d25846ee161ab2848e22d50a7a54d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\fc8d25846ee161ab2848e22d50a7a54d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\0181fff9cf9971e1a21b565f8a49400b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\0181fff9cf9971e1a21b565f8a49400b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\9b3f3f17ce6d46dffad999ca96990962\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\9b3f3f17ce6d46dffad999ca96990962\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f29e13b3a7ea9966eaabb6ad7122e575\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f29e13b3a7ea9966eaabb6ad7122e575\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\aec132ca812a604c029012d893cdf6f0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\aec132ca812a604c029012d893cdf6f0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\4c3b1044fb281ff6d297882f4d7ff350\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\4c3b1044fb281ff6d297882f4d7ff350\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\7d6330ef5be74cb282c5c3fc47de61f8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\7d6330ef5be74cb282c5c3fc47de61f8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f7fd9224bd88f6d22a5eab65a2ebe545\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f7fd9224bd88f6d22a5eab65a2ebe545\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\380602b7567392d83be67ca010432f83\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\380602b7567392d83be67ca010432f83\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f2f790422d2c962e3d9e33074cd8d7d3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f2f790422d2c962e3d9e33074cd8d7d3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\bd330936ff39ddf4fd7e808981f42f6e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\bd330936ff39ddf4fd7e808981f42f6e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\74fa2e525af432990439a9a0cd0f12d6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\74fa2e525af432990439a9a0cd0f12d6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\c0eaa966e2d9982b2401981af85f6840\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\c0eaa966e2d9982b2401981af85f6840\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\8665efb18bc07f5f759d113e65e508eb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\8665efb18bc07f5f759d113e65e508eb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\8ce12853512db5c5334ade7ec838ab49\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\8ce12853512db5c5334ade7ec838ab49\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\4d2f5573a5d428fe92657496d01fb018\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\4d2f5573a5d428fe92657496d01fb018\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\aecb8879320d1acf2abf862152d5e8a1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\aecb8879320d1acf2abf862152d5e8a1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\08f3ebb1d63a779516316d72da389abf\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\08f3ebb1d63a779516316d72da389abf\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f819bd4df90a10f2803054539fea665a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f819bd4df90a10f2803054539fea665a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\c07c122bedf738f9ac8105edfe393d82\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\c07c122bedf738f9ac8105edfe393d82\AndroidManifest.xml:5:5-7:41
+INJECTED from G:\Appsians\Clients\LocumApp\android\app\src\debug\AndroidManifest.xml
+INJECTED from G:\Appsians\Clients\LocumApp\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Appsians\Clients\LocumApp\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\Appsians\Clients\LocumApp\android\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Appsians\Clients\LocumApp\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from G:\Appsians\Clients\LocumApp\android\app\src\debug\AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from G:\Appsians\Clients\LocumApp\android\app\src\debug\AndroidManifest.xml:5:22-75
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:react-native-firebase] G:\Appsians\Clients\LocumApp\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\09c478c7fd7ddc62d12a9333e9c5e0ab\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\09c478c7fd7ddc62d12a9333e9c5e0ab\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f7fbcc48accaca2a25bc41a9ee0b103f\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f7fbcc48accaca2a25bc41a9ee0b103f\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f67e98a25ca33611898240ce74c1feeb\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f67e98a25ca33611898240ce74c1feeb\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\128450b309261980ab5f4eb9c98a98f4\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\128450b309261980ab5f4eb9c98a98f4\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\c9782b0a647c7394ad73bf295d91ff8c\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\c9782b0a647c7394ad73bf295d91ff8c\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [:react-native-firebase] G:\Appsians\Clients\LocumApp\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:22-65
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:react-native-firebase] G:\Appsians\Clients\LocumApp\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:9-20:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f7fbcc48accaca2a25bc41a9ee0b103f\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f7fbcc48accaca2a25bc41a9ee0b103f\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f67e98a25ca33611898240ce74c1feeb\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f67e98a25ca33611898240ce74c1feeb\AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f7fbcc48accaca2a25bc41a9ee0b103f\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [:react-native-firebase] G:\Appsians\Clients\LocumApp\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:18-89
+meta-data#com.google.firebase.components:io.invertase.firebase.ReactNativeFirebaseAppRegistrar
+ADDED from [:react-native-firebase] G:\Appsians\Clients\LocumApp\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [:react-native-firebase] G:\Appsians\Clients\LocumApp\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [:react-native-firebase] G:\Appsians\Clients\LocumApp\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:17-116
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:react-native-image-crop-picker] G:\Appsians\Clients\LocumApp\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from [:react-native-image-crop-picker] G:\Appsians\Clients\LocumApp\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:22-78
+provider#androidx.core.content.FileProvider
+ADDED from [:react-native-image-crop-picker] G:\Appsians\Clients\LocumApp\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:9-21:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-crop-picker] G:\Appsians\Clients\LocumApp\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-47
+	android:authorities
+		ADDED from [:react-native-image-crop-picker] G:\Appsians\Clients\LocumApp\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-60
+	android:exported
+		ADDED from [:react-native-image-crop-picker] G:\Appsians\Clients\LocumApp\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from [:react-native-image-crop-picker] G:\Appsians\Clients\LocumApp\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-crop-picker] G:\Appsians\Clients\LocumApp\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-20:58
+	android:resource
+		ADDED from [:react-native-image-crop-picker] G:\Appsians\Clients\LocumApp\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:17-55
+	android:name
+		ADDED from [:react-native-image-crop-picker] G:\Appsians\Clients\LocumApp\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:17-67
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from [:react-native-image-crop-picker] G:\Appsians\Clients\LocumApp\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:23:9-25:72
+	android:theme
+		ADDED from [:react-native-image-crop-picker] G:\Appsians\Clients\LocumApp\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:13-69
+	android:name
+		ADDED from [:react-native-image-crop-picker] G:\Appsians\Clients\LocumApp\node_modules\react-native-image-crop-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:13-60
+provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
+ADDED from [:react-native-webview] G:\Appsians\Clients\LocumApp\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-webview] G:\Appsians\Clients\LocumApp\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-webview] G:\Appsians\Clients\LocumApp\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-64
+	android:exported
+		ADDED from [:react-native-webview] G:\Appsians\Clients\LocumApp\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-webview] G:\Appsians\Clients\LocumApp\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-83
+receiver#com.learnium.RNDeviceInfo.RNDeviceReceiver
+ADDED from [:react-native-device-info] G:\Appsians\Clients\LocumApp\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-19:20
+	android:enabled
+		ADDED from [:react-native-device-info] G:\Appsians\Clients\LocumApp\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-35
+	android:exported
+		ADDED from [:react-native-device-info] G:\Appsians\Clients\LocumApp\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-36
+	android:name
+		ADDED from [:react-native-device-info] G:\Appsians\Clients\LocumApp\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-70
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [:react-native-device-info] G:\Appsians\Clients\LocumApp\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-18:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [:react-native-device-info] G:\Appsians\Clients\LocumApp\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:17-79
+	android:name
+		ADDED from [:react-native-device-info] G:\Appsians\Clients\LocumApp\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:25-76
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:20.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\52f746b7dfba7561913dddfe564a6c97\AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:20.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\52f746b7dfba7561913dddfe564a6c97\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:20.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\52f746b7dfba7561913dddfe564a6c97\AndroidManifest.xml:29:13-82
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:17.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\ba8d8d8699c3d7abab962970e4dbae50\AndroidManifest.xml:23:5-82
+MERGED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f67e98a25ca33611898240ce74c1feeb\AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f67e98a25ca33611898240ce74c1feeb\AndroidManifest.xml:26:5-82
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\077da24513fe832fe207ec6df4107a03\AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\077da24513fe832fe207ec6df4107a03\AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:17.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\ba8d8d8699c3d7abab962970e4dbae50\AndroidManifest.xml:23:22-79
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\09c478c7fd7ddc62d12a9333e9c5e0ab\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\128450b309261980ab5f4eb9c98a98f4\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\128450b309261980ab5f4eb9c98a98f4\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\09c478c7fd7ddc62d12a9333e9c5e0ab\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\09c478c7fd7ddc62d12a9333e9c5e0ab\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\09c478c7fd7ddc62d12a9333e9c5e0ab\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\09c478c7fd7ddc62d12a9333e9c5e0ab\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\09c478c7fd7ddc62d12a9333e9c5e0ab\AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\09c478c7fd7ddc62d12a9333e9c5e0ab\AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\128450b309261980ab5f4eb9c98a98f4\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\128450b309261980ab5f4eb9c98a98f4\AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\09c478c7fd7ddc62d12a9333e9c5e0ab\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\09c478c7fd7ddc62d12a9333e9c5e0ab\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\09c478c7fd7ddc62d12a9333e9c5e0ab\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\09c478c7fd7ddc62d12a9333e9c5e0ab\AndroidManifest.xml:35:13-100
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\09c478c7fd7ddc62d12a9333e9c5e0ab\AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\09c478c7fd7ddc62d12a9333e9c5e0ab\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\09c478c7fd7ddc62d12a9333e9c5e0ab\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\09c478c7fd7ddc62d12a9333e9c5e0ab\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\09c478c7fd7ddc62d12a9333e9c5e0ab\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\09c478c7fd7ddc62d12a9333e9c5e0ab\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\09c478c7fd7ddc62d12a9333e9c5e0ab\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\09c478c7fd7ddc62d12a9333e9c5e0ab\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\09c478c7fd7ddc62d12a9333e9c5e0ab\AndroidManifest.xml:49:13-87
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f7fbcc48accaca2a25bc41a9ee0b103f\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f7fbcc48accaca2a25bc41a9ee0b103f\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f7fbcc48accaca2a25bc41a9ee0b103f\AndroidManifest.xml:31:17-139
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f67e98a25ca33611898240ce74c1feeb\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f67e98a25ca33611898240ce74c1feeb\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f67e98a25ca33611898240ce74c1feeb\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f67e98a25ca33611898240ce74c1feeb\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f67e98a25ca33611898240ce74c1feeb\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f67e98a25ca33611898240ce74c1feeb\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f67e98a25ca33611898240ce74c1feeb\AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f67e98a25ca33611898240ce74c1feeb\AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f67e98a25ca33611898240ce74c1feeb\AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\f67e98a25ca33611898240ce74c1feeb\AndroidManifest.xml:42:25-78
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\504865655c94da738241e0938eba0a2c\AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\504865655c94da738241e0938eba0a2c\AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\504865655c94da738241e0938eba0a2c\AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\504865655c94da738241e0938eba0a2c\AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\504865655c94da738241e0938eba0a2c\AndroidManifest.xml:13:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\eb8011b5d55618cd693fa5fed4653693\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\eb8011b5d55618cd693fa5fed4653693\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\eb8011b5d55618cd693fa5fed4653693\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\eb8011b5d55618cd693fa5fed4653693\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\ed29c69bb502a4a6845898b4b039bb29\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\ed29c69bb502a4a6845898b4b039bb29\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Mian Family\.gradle\caches\transforms-2\files-2.1\ed29c69bb502a4a6845898b4b039bb29\AndroidManifest.xml:24:13-58

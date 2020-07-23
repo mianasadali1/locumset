@@ -1,0 +1,40 @@
+# Uncomment the next line to define a global platform for your project
+platform :ios, '9.0'
+
+
+# add the Firebase pod for Google Analytics
+pod 'Firebase/Analytics'
+pod 'Firebase/Core', '~> 6.16.0'
+# add pods for any other desired Firebase products
+# https://firebase.google.com/docs/ios/setup#available-pods
+
+
+
+pod 'Toast', '~> 4.0.0'
+
+
+target 'locumset' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for locumset
+
+  target 'locumsetTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end
+
+target 'locumset-tvOS' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for locumset-tvOS
+
+  target 'locumset-tvOSTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end

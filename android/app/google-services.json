@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "728933452950",
+    "firebase_url": "https://locumset-e6bdb.firebaseio.com",
+    "project_id": "locumset-e6bdb",
+    "storage_bucket": "locumset-e6bdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728933452950:android:26c0a363e6f73d47a1c6b7",
+        "android_client_info": {
+          "package_name": "com.locumset"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728933452950-dp6vol9uprrp0db4a96ip0akjrbs4bee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsDonoFOKdfhee_qWYt_BDqUbYy_4KQQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728933452950-dp6vol9uprrp0db4a96ip0akjrbs4bee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
