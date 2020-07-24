@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "G:\\Appsians\\Clients\\LocumApp\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "/Users/Admin/Desktop/projects/locumset/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Mian Family\\.gradle\\caches\\transforms-2\\files-2.1\\cb022d619ccf4b7e63206ca74f0693ea\\res\\values-night-v8\\values-night-v8.xml",
+                    "source": "/Users/Admin/.gradle/caches/transforms-2/files-2.1/526c071b964d51453572525cd330d414/res/values-night-v8/values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8",
                         "startColumns": "4,4,4,4,4,4,4",

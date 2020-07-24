@@ -37,6 +37,7 @@
     "galio-framework": "^0.6.3",
     "identity-obj-proxy": "3.0.0",
     "lodash": "4.17.15",
+    "lottie-react-native": "^3.5.0",
     "moment": "^2.24.0",
     "prop-types": "^15.7.2",
     "querystringify": "2.1.1",

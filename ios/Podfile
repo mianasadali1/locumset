@@ -19,6 +19,8 @@ target 'locumset' do
 
   # Pods for locumset
 
+  pod 'lottie-react-native', :path => '../node_modules/lottie-react-native'
+
   target 'locumsetTests' do
     inherit! :search_paths
     # Pods for testing

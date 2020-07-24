@@ -1,4 +1,6 @@
 import React, { Component } from "react";
+import LottieView from "lottie-react-native";
+
 import {
   View,
   Alert,
@@ -87,6 +89,8 @@ class Login extends Component {
 
   componentDidMount() {
     if (Platform.OS == "android") {
+      this.animation.play();
+
       setTimeout(() => {
         SplashScreen.hide();
       }, 1500);
@@ -209,11 +213,23 @@ class Login extends Component {
           width={width * 0.8}
           style={{ marginBottom: p40, marginTop: p30 }}
         >
-          <Image
-            center
-            source={Images.loginLogo}
-            style={{ width: p200, height: p75, paddingBottom: p20 }}
-          />
+          <View
+            style={{
+              backgroundColor: "#005E51",
+              borderRadius: 50,
+              borderWidth: 5,
+              borderColor: "#005E51",
+            }}
+          >
+            <LottieView
+              ref={(animation) => {
+                this.animation = animation;
+              }}
+              style={{ width: 100, height: 100 }}
+              source={require("../assets/doctor.json")}
+            />
+          </View>
+
           <Text color="#fff" size={p20} style={{ marginTop: p10 }}>
             Nice to have you back
           </Text>

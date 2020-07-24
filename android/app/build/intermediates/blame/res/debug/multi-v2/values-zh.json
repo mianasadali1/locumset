@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "G:\\Appsians\\Clients\\LocumApp\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh\\values-zh.xml",
+            "outputFile": "/Users/Admin/Desktop/projects/locumset/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh/values-zh.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Mian Family\\.gradle\\caches\\transforms-2\\files-2.1\\8d0938680be5d5303b7f828f5fd6985f\\res\\values-zh\\values-zh.xml",
+                    "source": "/Users/Admin/.gradle/caches/transforms-2/files-2.1/4575a9cce22f5c36ed4280691688dc88/res/values-zh/values-zh.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",

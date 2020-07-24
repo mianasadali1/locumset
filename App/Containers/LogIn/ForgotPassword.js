@@ -1,4 +1,6 @@
 import React, { Component } from "react";
+import LottieView from "lottie-react-native";
+
 import {
   View,
   Alert,
@@ -75,7 +77,9 @@ class ForgotPassword extends Component {
     password: "",
   };
 
-  componentDidMount() {}
+  componentDidMount() {
+    this.animation.play();
+  }
 
   componentWillMount() {
     this.keyboardWillShowSub = Keyboard.addListener(
@@ -177,11 +181,24 @@ class ForgotPassword extends Component {
           width={width * 0.8}
           style={{ marginBottom: p40, marginTop: p30 }}
         >
-          <Image
-            center
-            source={Images.loginLogo}
-            style={{ width: p200, height: p75, paddingBottom: p20 }}
-          />
+          <View
+            style={{
+              justifyContent: "center",
+              alignContent: "center",
+              backgroundColor: "#005E51",
+              borderRadius: 100,
+              borderWidth: 13,
+              borderColor: "#005E51",
+            }}
+          >
+            <LottieView
+              ref={(animation) => {
+                this.animation = animation;
+              }}
+              style={{ width: 100, height: 100 }}
+              source={require("../assets/16766-forget-password-animation.json")}
+            />
+          </View>
         </Block>
         {!isForgot ? (
           <Block>
