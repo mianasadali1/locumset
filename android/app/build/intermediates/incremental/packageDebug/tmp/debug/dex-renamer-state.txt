@@ -1,4 +1,0 @@
-#Fri Jul 24 10:29:42 PKT 2020
-base.0=/Users/Admin/Desktop/projects/locumset/android/app/build/intermediates/transforms/dexMerger/debug/0
-path.0=classes.dex
-renamed.0=classes.dex
