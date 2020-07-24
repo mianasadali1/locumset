@@ -18,7 +18,7 @@ import {
   TextInput,
   Platform,
   BackHandler,
-  TouchableOpacity,
+  TouchableHighlight,
 } from "react-native";
 import Icon from "react-native-vector-icons";
 import Logo from "../../Themes/assets/img/logo.png";
@@ -304,7 +304,7 @@ class Login extends Component {
               >
                 {"Forgot Password? "}
               </Text>
-              <TouchableOpacity onPress={this.navigateOnForgotPassword}>
+              <TouchableHighlight onPress={this.navigateOnForgotPassword}>
                 <Text
                   center
                   bold
@@ -314,7 +314,7 @@ class Login extends Component {
                 >
                   Reset
                 </Text>
-              </TouchableOpacity>
+              </TouchableHighlight>
             </View>
           </Block>
         </Block>
@@ -322,11 +322,11 @@ class Login extends Component {
           <Text color={argonTheme.COLORS.WHITE}>
             {"Don't have an account? "}{" "}
           </Text>
-          <TouchableOpacity onPress={this._registerNavigate}>
+          <TouchableHighlight onPress={this._registerNavigate}>
             <Text bold size={p20} color={argonTheme.COLORS.WHITE}>
               Register
             </Text>
-          </TouchableOpacity>
+          </TouchableHighlight>
         </View>
       </KeyboardAwareScrollView>
     );
